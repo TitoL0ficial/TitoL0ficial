@@ -1,5 +1,5 @@
 ### Hi! I am Tito
-- 📒 I'm a Fullstack Developer | Java | Springboot | JavaScript | HTML | CSS | Git | Github
+- 📒 I'm a Fullstack Developer | Java | Springboot | JavaScript | HTML | CSS | React TS | Git | Github
 
 <div align="center">
   <a href="https://github.com/TitoL0ficial">
